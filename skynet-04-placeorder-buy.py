@@ -2,7 +2,7 @@ import requests
 import json
 
 # real url content with key
-endpoint = 'http://122.8.148.106//api/v1/placeOrder/000'
+endpoint = 'https://trade.erd.ai/robot/api/v1/placeOrder/000'
 headers = {
         'Content-Type' : 'application/json',
         'X-API-KEY': '907E0507067041318FBD5248250E4EF1',
